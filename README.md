@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection: Isolation Forest Model and LOF for Anomaly Detection
 
 This folder contains the modular implementation of a credit card fraud detection pipeline using Isolation Forest and Local Outlier Factor (LOF).
 
